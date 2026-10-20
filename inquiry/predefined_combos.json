@@ -1,0 +1,2121 @@
+{
+  "青春嫩妹|苗条纤细|服务配合": {
+    "keywords": "嫩妹 苗条",
+    "keywords_list": [
+      "嫩妹",
+      "苗条"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|苗条纤细|女友感": {
+    "keywords": "嫩妹 苗条 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "苗条",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|苗条纤细|颜值容貌": {
+    "keywords": "嫩妹 苗条",
+    "keywords_list": [
+      "嫩妹",
+      "苗条"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|苗条纤细|身材体态": {
+    "keywords": "嫩妹 苗条",
+    "keywords_list": [
+      "嫩妹",
+      "苗条"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|苗条纤细|高性价比": {
+    "keywords": "嫩妹 苗条",
+    "keywords_list": [
+      "嫩妹",
+      "苗条"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|苗条纤细|综合均衡": {
+    "keywords": "嫩妹 苗条",
+    "keywords_list": [
+      "嫩妹",
+      "苗条"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹与苗条身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "青春嫩妹|丰满有料|服务配合": {
+    "keywords": "嫩妹 大胸",
+    "keywords_list": [
+      "嫩妹",
+      "大胸"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|丰满有料|女友感": {
+    "keywords": "嫩妹 大胸 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "大胸",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|丰满有料|颜值容貌": {
+    "keywords": "嫩妹 大胸",
+    "keywords_list": [
+      "嫩妹",
+      "大胸"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|丰满有料|身材体态": {
+    "keywords": "嫩妹 大胸",
+    "keywords_list": [
+      "嫩妹",
+      "大胸"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|丰满有料|高性价比": {
+    "keywords": "嫩妹 大胸",
+    "keywords_list": [
+      "嫩妹",
+      "大胸"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|丰满有料|综合均衡": {
+    "keywords": "嫩妹 大胸",
+    "keywords_list": [
+      "嫩妹",
+      "大胸"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹与丰满身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "青春嫩妹|高挑长腿|服务配合": {
+    "keywords": "嫩妹 长腿",
+    "keywords_list": [
+      "嫩妹",
+      "长腿"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|高挑长腿|女友感": {
+    "keywords": "嫩妹 长腿 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "长腿",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|高挑长腿|颜值容貌": {
+    "keywords": "嫩妹 长腿",
+    "keywords_list": [
+      "嫩妹",
+      "长腿"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|高挑长腿|身材体态": {
+    "keywords": "嫩妹 长腿",
+    "keywords_list": [
+      "嫩妹",
+      "长腿"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|高挑长腿|高性价比": {
+    "keywords": "嫩妹 长腿",
+    "keywords_list": [
+      "嫩妹",
+      "长腿"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|高挑长腿|综合均衡": {
+    "keywords": "嫩妹 长腿",
+    "keywords_list": [
+      "嫩妹",
+      "长腿"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹与高挑长腿特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "青春嫩妹|微胖肉感|服务配合": {
+    "keywords": "嫩妹 微胖",
+    "keywords_list": [
+      "嫩妹",
+      "微胖"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|微胖肉感|女友感": {
+    "keywords": "嫩妹 微胖 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "微胖",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|微胖肉感|颜值容貌": {
+    "keywords": "嫩妹 微胖",
+    "keywords_list": [
+      "嫩妹",
+      "微胖"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|微胖肉感|身材体态": {
+    "keywords": "嫩妹 微胖",
+    "keywords_list": [
+      "嫩妹",
+      "微胖"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|微胖肉感|高性价比": {
+    "keywords": "嫩妹 微胖",
+    "keywords_list": [
+      "嫩妹",
+      "微胖"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|微胖肉感|综合均衡": {
+    "keywords": "嫩妹 微胖",
+    "keywords_list": [
+      "嫩妹",
+      "微胖"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹与微胖肉感特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "青春嫩妹|娇小可爱|服务配合": {
+    "keywords": "嫩妹 娇小",
+    "keywords_list": [
+      "嫩妹",
+      "娇小"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|娇小可爱|女友感": {
+    "keywords": "嫩妹 娇小 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "娇小",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|娇小可爱|颜值容貌": {
+    "keywords": "嫩妹 娇小",
+    "keywords_list": [
+      "嫩妹",
+      "娇小"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|娇小可爱|身材体态": {
+    "keywords": "嫩妹 娇小",
+    "keywords_list": [
+      "嫩妹",
+      "娇小"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|娇小可爱|高性价比": {
+    "keywords": "嫩妹 娇小",
+    "keywords_list": [
+      "嫩妹",
+      "娇小"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|娇小可爱|综合均衡": {
+    "keywords": "嫩妹 娇小",
+    "keywords_list": [
+      "嫩妹",
+      "娇小"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹与娇小体型特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "青春嫩妹|不限身材|服务配合": {
+    "keywords": "嫩妹",
+    "keywords_list": [
+      "嫩妹"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹特征，重点加权服务态度与配合细节评分。"
+  },
+  "青春嫩妹|不限身材|女友感": {
+    "keywords": "嫩妹 女友感",
+    "keywords_list": [
+      "嫩妹",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "青春嫩妹|不限身材|颜值容貌": {
+    "keywords": "嫩妹",
+    "keywords_list": [
+      "嫩妹"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "青春嫩妹|不限身材|身材体态": {
+    "keywords": "嫩妹",
+    "keywords_list": [
+      "嫩妹"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定青春嫩妹特征，核心加权身材体态与比例评分。"
+  },
+  "青春嫩妹|不限身材|高性价比": {
+    "keywords": "嫩妹",
+    "keywords_list": [
+      "嫩妹"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定青春嫩妹特征，重点提高消费价格与综合性价比权重。"
+  },
+  "青春嫩妹|不限身材|综合均衡": {
+    "keywords": "嫩妹",
+    "keywords_list": [
+      "嫩妹"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定青春嫩妹特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|苗条纤细|服务配合": {
+    "keywords": "御姐 苗条",
+    "keywords_list": [
+      "御姐",
+      "苗条"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|苗条纤细|女友感": {
+    "keywords": "御姐 苗条 女友感",
+    "keywords_list": [
+      "御姐",
+      "苗条",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|苗条纤细|颜值容貌": {
+    "keywords": "御姐 苗条",
+    "keywords_list": [
+      "御姐",
+      "苗条"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|苗条纤细|身材体态": {
+    "keywords": "御姐 苗条",
+    "keywords_list": [
+      "御姐",
+      "苗条"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|苗条纤细|高性价比": {
+    "keywords": "御姐 苗条",
+    "keywords_list": [
+      "御姐",
+      "苗条"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|苗条纤细|综合均衡": {
+    "keywords": "御姐 苗条",
+    "keywords_list": [
+      "御姐",
+      "苗条"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐与苗条身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|丰满有料|服务配合": {
+    "keywords": "御姐 大胸",
+    "keywords_list": [
+      "御姐",
+      "大胸"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|丰满有料|女友感": {
+    "keywords": "御姐 大胸 女友感",
+    "keywords_list": [
+      "御姐",
+      "大胸",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|丰满有料|颜值容貌": {
+    "keywords": "御姐 大胸",
+    "keywords_list": [
+      "御姐",
+      "大胸"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|丰满有料|身材体态": {
+    "keywords": "御姐 大胸",
+    "keywords_list": [
+      "御姐",
+      "大胸"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|丰满有料|高性价比": {
+    "keywords": "御姐 大胸",
+    "keywords_list": [
+      "御姐",
+      "大胸"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|丰满有料|综合均衡": {
+    "keywords": "御姐 大胸",
+    "keywords_list": [
+      "御姐",
+      "大胸"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐与丰满身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|高挑长腿|服务配合": {
+    "keywords": "御姐 长腿",
+    "keywords_list": [
+      "御姐",
+      "长腿"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|高挑长腿|女友感": {
+    "keywords": "御姐 长腿 女友感",
+    "keywords_list": [
+      "御姐",
+      "长腿",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|高挑长腿|颜值容貌": {
+    "keywords": "御姐 长腿",
+    "keywords_list": [
+      "御姐",
+      "长腿"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|高挑长腿|身材体态": {
+    "keywords": "御姐 长腿",
+    "keywords_list": [
+      "御姐",
+      "长腿"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|高挑长腿|高性价比": {
+    "keywords": "御姐 长腿",
+    "keywords_list": [
+      "御姐",
+      "长腿"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|高挑长腿|综合均衡": {
+    "keywords": "御姐 长腿",
+    "keywords_list": [
+      "御姐",
+      "长腿"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐与高挑长腿特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|微胖肉感|服务配合": {
+    "keywords": "御姐 微胖",
+    "keywords_list": [
+      "御姐",
+      "微胖"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|微胖肉感|女友感": {
+    "keywords": "御姐 微胖 女友感",
+    "keywords_list": [
+      "御姐",
+      "微胖",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|微胖肉感|颜值容貌": {
+    "keywords": "御姐 微胖",
+    "keywords_list": [
+      "御姐",
+      "微胖"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|微胖肉感|身材体态": {
+    "keywords": "御姐 微胖",
+    "keywords_list": [
+      "御姐",
+      "微胖"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|微胖肉感|高性价比": {
+    "keywords": "御姐 微胖",
+    "keywords_list": [
+      "御姐",
+      "微胖"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|微胖肉感|综合均衡": {
+    "keywords": "御姐 微胖",
+    "keywords_list": [
+      "御姐",
+      "微胖"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐与微胖肉感特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|娇小可爱|服务配合": {
+    "keywords": "御姐 娇小",
+    "keywords_list": [
+      "御姐",
+      "娇小"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|娇小可爱|女友感": {
+    "keywords": "御姐 娇小 女友感",
+    "keywords_list": [
+      "御姐",
+      "娇小",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|娇小可爱|颜值容貌": {
+    "keywords": "御姐 娇小",
+    "keywords_list": [
+      "御姐",
+      "娇小"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|娇小可爱|身材体态": {
+    "keywords": "御姐 娇小",
+    "keywords_list": [
+      "御姐",
+      "娇小"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|娇小可爱|高性价比": {
+    "keywords": "御姐 娇小",
+    "keywords_list": [
+      "御姐",
+      "娇小"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|娇小可爱|综合均衡": {
+    "keywords": "御姐 娇小",
+    "keywords_list": [
+      "御姐",
+      "娇小"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐与娇小体型特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "成熟御姐|不限身材|服务配合": {
+    "keywords": "御姐",
+    "keywords_list": [
+      "御姐"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐特征，重点加权服务态度与配合细节评分。"
+  },
+  "成熟御姐|不限身材|女友感": {
+    "keywords": "御姐 女友感",
+    "keywords_list": [
+      "御姐",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "成熟御姐|不限身材|颜值容貌": {
+    "keywords": "御姐",
+    "keywords_list": [
+      "御姐"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "成熟御姐|不限身材|身材体态": {
+    "keywords": "御姐",
+    "keywords_list": [
+      "御姐"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定成熟御姐特征，核心加权身材体态与比例评分。"
+  },
+  "成熟御姐|不限身材|高性价比": {
+    "keywords": "御姐",
+    "keywords_list": [
+      "御姐"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定成熟御姐特征，重点提高消费价格与综合性价比权重。"
+  },
+  "成熟御姐|不限身材|综合均衡": {
+    "keywords": "御姐",
+    "keywords_list": [
+      "御姐"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定成熟御姐特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|苗条纤细|服务配合": {
+    "keywords": "清纯 苗条",
+    "keywords_list": [
+      "清纯",
+      "苗条"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|苗条纤细|女友感": {
+    "keywords": "清纯 苗条 女友感",
+    "keywords_list": [
+      "清纯",
+      "苗条",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|苗条纤细|颜值容貌": {
+    "keywords": "清纯 苗条",
+    "keywords_list": [
+      "清纯",
+      "苗条"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|苗条纤细|身材体态": {
+    "keywords": "清纯 苗条",
+    "keywords_list": [
+      "清纯",
+      "苗条"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|苗条纤细|高性价比": {
+    "keywords": "清纯 苗条",
+    "keywords_list": [
+      "清纯",
+      "苗条"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|苗条纤细|综合均衡": {
+    "keywords": "清纯 苗条",
+    "keywords_list": [
+      "清纯",
+      "苗条"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家与苗条身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|丰满有料|服务配合": {
+    "keywords": "清纯 大胸",
+    "keywords_list": [
+      "清纯",
+      "大胸"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|丰满有料|女友感": {
+    "keywords": "清纯 大胸 女友感",
+    "keywords_list": [
+      "清纯",
+      "大胸",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|丰满有料|颜值容貌": {
+    "keywords": "清纯 大胸",
+    "keywords_list": [
+      "清纯",
+      "大胸"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|丰满有料|身材体态": {
+    "keywords": "清纯 大胸",
+    "keywords_list": [
+      "清纯",
+      "大胸"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|丰满有料|高性价比": {
+    "keywords": "清纯 大胸",
+    "keywords_list": [
+      "清纯",
+      "大胸"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|丰满有料|综合均衡": {
+    "keywords": "清纯 大胸",
+    "keywords_list": [
+      "清纯",
+      "大胸"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家与丰满身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|高挑长腿|服务配合": {
+    "keywords": "清纯 长腿",
+    "keywords_list": [
+      "清纯",
+      "长腿"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|高挑长腿|女友感": {
+    "keywords": "清纯 长腿 女友感",
+    "keywords_list": [
+      "清纯",
+      "长腿",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|高挑长腿|颜值容貌": {
+    "keywords": "清纯 长腿",
+    "keywords_list": [
+      "清纯",
+      "长腿"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|高挑长腿|身材体态": {
+    "keywords": "清纯 长腿",
+    "keywords_list": [
+      "清纯",
+      "长腿"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|高挑长腿|高性价比": {
+    "keywords": "清纯 长腿",
+    "keywords_list": [
+      "清纯",
+      "长腿"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|高挑长腿|综合均衡": {
+    "keywords": "清纯 长腿",
+    "keywords_list": [
+      "清纯",
+      "长腿"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家与高挑长腿特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|微胖肉感|服务配合": {
+    "keywords": "清纯 微胖",
+    "keywords_list": [
+      "清纯",
+      "微胖"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|微胖肉感|女友感": {
+    "keywords": "清纯 微胖 女友感",
+    "keywords_list": [
+      "清纯",
+      "微胖",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|微胖肉感|颜值容貌": {
+    "keywords": "清纯 微胖",
+    "keywords_list": [
+      "清纯",
+      "微胖"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|微胖肉感|身材体态": {
+    "keywords": "清纯 微胖",
+    "keywords_list": [
+      "清纯",
+      "微胖"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|微胖肉感|高性价比": {
+    "keywords": "清纯 微胖",
+    "keywords_list": [
+      "清纯",
+      "微胖"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|微胖肉感|综合均衡": {
+    "keywords": "清纯 微胖",
+    "keywords_list": [
+      "清纯",
+      "微胖"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家与微胖肉感特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|娇小可爱|服务配合": {
+    "keywords": "清纯 娇小",
+    "keywords_list": [
+      "清纯",
+      "娇小"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|娇小可爱|女友感": {
+    "keywords": "清纯 娇小 女友感",
+    "keywords_list": [
+      "清纯",
+      "娇小",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|娇小可爱|颜值容貌": {
+    "keywords": "清纯 娇小",
+    "keywords_list": [
+      "清纯",
+      "娇小"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|娇小可爱|身材体态": {
+    "keywords": "清纯 娇小",
+    "keywords_list": [
+      "清纯",
+      "娇小"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|娇小可爱|高性价比": {
+    "keywords": "清纯 娇小",
+    "keywords_list": [
+      "清纯",
+      "娇小"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|娇小可爱|综合均衡": {
+    "keywords": "清纯 娇小",
+    "keywords_list": [
+      "清纯",
+      "娇小"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家与娇小体型特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "清纯邻家|不限身材|服务配合": {
+    "keywords": "清纯",
+    "keywords_list": [
+      "清纯"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家特征，重点加权服务态度与配合细节评分。"
+  },
+  "清纯邻家|不限身材|女友感": {
+    "keywords": "清纯 女友感",
+    "keywords_list": [
+      "清纯",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "清纯邻家|不限身材|颜值容貌": {
+    "keywords": "清纯",
+    "keywords_list": [
+      "清纯"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "清纯邻家|不限身材|身材体态": {
+    "keywords": "清纯",
+    "keywords_list": [
+      "清纯"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定清纯邻家特征，核心加权身材体态与比例评分。"
+  },
+  "清纯邻家|不限身材|高性价比": {
+    "keywords": "清纯",
+    "keywords_list": [
+      "清纯"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定清纯邻家特征，重点提高消费价格与综合性价比权重。"
+  },
+  "清纯邻家|不限身材|综合均衡": {
+    "keywords": "清纯",
+    "keywords_list": [
+      "清纯"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定清纯邻家特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|苗条纤细|服务配合": {
+    "keywords": "苗条",
+    "keywords_list": [
+      "苗条"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定苗条身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|苗条纤细|女友感": {
+    "keywords": "苗条 女友感",
+    "keywords_list": [
+      "苗条",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定苗条身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|苗条纤细|颜值容貌": {
+    "keywords": "苗条",
+    "keywords_list": [
+      "苗条"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定苗条身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|苗条纤细|身材体态": {
+    "keywords": "苗条",
+    "keywords_list": [
+      "苗条"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定苗条身材特征，核心加权身材体态与比例评分。"
+  },
+  "不限风格|苗条纤细|高性价比": {
+    "keywords": "苗条",
+    "keywords_list": [
+      "苗条"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定苗条身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|苗条纤细|综合均衡": {
+    "keywords": "苗条",
+    "keywords_list": [
+      "苗条"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定苗条身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|丰满有料|服务配合": {
+    "keywords": "大胸",
+    "keywords_list": [
+      "大胸"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定丰满身材特征，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|丰满有料|女友感": {
+    "keywords": "大胸 女友感",
+    "keywords_list": [
+      "大胸",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定丰满身材特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|丰满有料|颜值容貌": {
+    "keywords": "大胸",
+    "keywords_list": [
+      "大胸"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定丰满身材特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|丰满有料|身材体态": {
+    "keywords": "大胸",
+    "keywords_list": [
+      "大胸"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定丰满身材特征，核心加权身材体态与比例评分。"
+  },
+  "不限风格|丰满有料|高性价比": {
+    "keywords": "大胸",
+    "keywords_list": [
+      "大胸"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定丰满身材特征，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|丰满有料|综合均衡": {
+    "keywords": "大胸",
+    "keywords_list": [
+      "大胸"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定丰满身材特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|高挑长腿|服务配合": {
+    "keywords": "长腿",
+    "keywords_list": [
+      "长腿"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定高挑长腿特征，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|高挑长腿|女友感": {
+    "keywords": "长腿 女友感",
+    "keywords_list": [
+      "长腿",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定高挑长腿特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|高挑长腿|颜值容貌": {
+    "keywords": "长腿",
+    "keywords_list": [
+      "长腿"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定高挑长腿特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|高挑长腿|身材体态": {
+    "keywords": "长腿",
+    "keywords_list": [
+      "长腿"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定高挑长腿特征，核心加权身材体态与比例评分。"
+  },
+  "不限风格|高挑长腿|高性价比": {
+    "keywords": "长腿",
+    "keywords_list": [
+      "长腿"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定高挑长腿特征，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|高挑长腿|综合均衡": {
+    "keywords": "长腿",
+    "keywords_list": [
+      "长腿"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定高挑长腿特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|微胖肉感|服务配合": {
+    "keywords": "微胖",
+    "keywords_list": [
+      "微胖"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定微胖肉感特征，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|微胖肉感|女友感": {
+    "keywords": "微胖 女友感",
+    "keywords_list": [
+      "微胖",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定微胖肉感特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|微胖肉感|颜值容貌": {
+    "keywords": "微胖",
+    "keywords_list": [
+      "微胖"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定微胖肉感特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|微胖肉感|身材体态": {
+    "keywords": "微胖",
+    "keywords_list": [
+      "微胖"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定微胖肉感特征，核心加权身材体态与比例评分。"
+  },
+  "不限风格|微胖肉感|高性价比": {
+    "keywords": "微胖",
+    "keywords_list": [
+      "微胖"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定微胖肉感特征，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|微胖肉感|综合均衡": {
+    "keywords": "微胖",
+    "keywords_list": [
+      "微胖"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定微胖肉感特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|娇小可爱|服务配合": {
+    "keywords": "娇小",
+    "keywords_list": [
+      "娇小"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "已锁定娇小体型特征，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|娇小可爱|女友感": {
+    "keywords": "娇小 女友感",
+    "keywords_list": [
+      "娇小",
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "已锁定娇小体型特征，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|娇小可爱|颜值容貌": {
+    "keywords": "娇小",
+    "keywords_list": [
+      "娇小"
+    ],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定娇小体型特征，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|娇小可爱|身材体态": {
+    "keywords": "娇小",
+    "keywords_list": [
+      "娇小"
+    ],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "已锁定娇小体型特征，核心加权身材体态与比例评分。"
+  },
+  "不限风格|娇小可爱|高性价比": {
+    "keywords": "娇小",
+    "keywords_list": [
+      "娇小"
+    ],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "已锁定娇小体型特征，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|娇小可爱|综合均衡": {
+    "keywords": "娇小",
+    "keywords_list": [
+      "娇小"
+    ],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "已锁定娇小体型特征，均衡分配各维度体验与综合实力评分。"
+  },
+  "不限风格|不限身材|服务配合": {
+    "keywords": "",
+    "keywords_list": [],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.5,
+      "price": 0.1
+    },
+    "explanation": "全维度综合考量，重点加权服务态度与配合细节评分。"
+  },
+  "不限风格|不限身材|女友感": {
+    "keywords": "女友感",
+    "keywords_list": [
+      "女友感"
+    ],
+    "weight_focus": "service",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.15,
+      "service": 0.55,
+      "price": 0.1
+    },
+    "explanation": "全维度综合考量，大幅强化女友感与情绪陪伴服务权重。"
+  },
+  "不限风格|不限身材|颜值容貌": {
+    "keywords": "",
+    "keywords_list": [],
+    "weight_focus": "visual",
+    "weights": {
+      "visual": 0.5,
+      "body": 0.2,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "全维度综合考量，核心加权面容颜值与外在视觉评分。"
+  },
+  "不限风格|不限身材|身材体态": {
+    "keywords": "",
+    "keywords_list": [],
+    "weight_focus": "body",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.5,
+      "service": 0.2,
+      "price": 0.1
+    },
+    "explanation": "全维度综合考量，核心加权身材体态与比例评分。"
+  },
+  "不限风格|不限身材|高性价比": {
+    "keywords": "",
+    "keywords_list": [],
+    "weight_focus": "price",
+    "weights": {
+      "visual": 0.2,
+      "body": 0.2,
+      "service": 0.25,
+      "price": 0.35
+    },
+    "explanation": "全维度综合考量，重点提高消费价格与综合性价比权重。"
+  },
+  "不限风格|不限身材|综合均衡": {
+    "keywords": "",
+    "keywords_list": [],
+    "weight_focus": "balanced",
+    "weights": {
+      "visual": 0.25,
+      "body": 0.25,
+      "service": 0.35,
+      "price": 0.15
+    },
+    "explanation": "全维度综合考量，均衡分配各维度体验与综合实力评分。"
+  }
+}
